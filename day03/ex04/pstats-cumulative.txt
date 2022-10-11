@@ -1,0 +1,14 @@
+('Total Revenue', '184,903,000', '143,015,000', '110,360,000', '168,088,000', '125,843,000')
+         211346 function calls (206722 primitive calls) in 1.087 seconds
+
+   Ordered by: cumulative time
+   List reduced from 792 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    1.087    1.087 /Users/agidget/PythonDataScience/day03/ex04/./financial_enhanced.py:40(result)
+        1    0.000    0.000    0.989    0.989 /Users/agidget/PythonDataScience/day03/ex04/./financial_enhanced.py:18(connect_to_server)
+        1    0.000    0.000    0.989    0.989 /Users/agidget/agidget/lib/python3.10/site-packages/httpx/_api.py:167(get)
+        1    0.000    0.000    0.989    0.989 /Users/agidget/agidget/lib/python3.10/site-packages/httpx/_api.py:23(request)
+        1    0.000    0.000    0.977    0.977 /Users/agidget/agidget/lib/python3.10/site-packages/httpx/_client.py:748(request)
+
+

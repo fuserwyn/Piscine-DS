@@ -1,0 +1,14 @@
+2022-09-19 20:00:35,147 Input parameters are accepted
+2022-09-19 20:00:35,149 Payloads are accepted
+2022-09-19 20:00:35,151 Research class is created
+2022-09-19 20:00:35,152 Started reading the file
+2022-09-19 20:00:35,167 File is ok
+2022-09-19 20:00:35,168 Calculations class is created
+2022-09-19 20:00:35,169 Heads and tails are calculated
+2022-09-19 20:00:35,171 Fractions of heads and tails are calculated
+2022-09-19 20:00:35,172 Random predictions are made
+2022-09-19 20:00:35,174 Random heads and tails are calculated
+2022-09-19 20:00:35,175 Report is created
+2022-09-19 20:00:35,184 Saving report to the file
+2022-09-19 20:00:35,209 Starting new HTTPS connection (1): hooks.slack.com:443
+2022-09-19 20:00:35,578 https://hooks.slack.com:443 "POST /services/T039RN1UNT0/B039YCJC8BC/cB5CCzZN3dsoQCxtfioeL99g HTTP/1.1" 404 None
