@@ -8,5 +8,3 @@ def print_virtual_env():
 if __name__ == '__main__':
     print_virtual_env()
 
-# source ~/agidget/bin/activate
-# zip agidget.zip ~/agidget
